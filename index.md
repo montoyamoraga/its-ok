@@ -8,16 +8,24 @@ its-ok is [aarón montoya-moraga](http://montoyamoraga.io/)'s thesis project for
 
 {% include vimeoPlayer.html id="216762164" %}
 
-## credits
-
-this thesis would not have been possible without the support of
-
-## projects
+## art pieces
 
 * its-ok-to-die
-8 its-ok-to-sing
-* its-ok-to-
-* its-ok-to-
+* its-ok-to-differ
+* its-ok-to-dream
+* its-ok-to-laugh
+* its-ok-to-protest
+* its-ok-to-sing
+* its-ok-to-thank
+
+## tech tools
+
+* nonsequitur.py
+* protest.py
+
+## credits
+
+this thesis would not have been possible without the support of my extended family, the nyu itp community, michelle bachelet and the government of chile.
 
 ## license
 
