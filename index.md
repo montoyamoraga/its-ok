@@ -6,7 +6,7 @@ its-ok is [aarón montoya-moraga](http://montoyamoraga.io/)'s thesis project for
 
 ## thesis presentation
 
-https://vimeo.com/216762164
+{% include vimeoPlayer.html id="216762164" %}
 
 ## credits
 
