@@ -1,0 +1,54 @@
+(env) [Desktop (master)]$python
+Python 2.7.13 (default, Jan  5 2017, 03:17:27)
+[GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import nonsequitur
+>>> nonsequitur.chicken()
+Why did the chicken cross the road? Because he identified to macrosmatic the wreath.
+>>> nonsequitur.chicken()
+Why did the chicken cross the road? Because she fixed to garage the dingleberry.
+>>> nonsequitur.chicken()
+Why did the chicken cross the road? Because he landed to entrepreneurial the zdravstvuite.
+>>> nonsequitur.lightbulb()
+- How many occupational therapists does it take to change a lightbulb?
+- 1021, because of geodesic domeses.
+>>> nonsequitur.lightbulb()
+- How many furnishings workers does it take to change a lightbulb?
+- 6151, because of quantum dotses.
+>>> nonsequitur.lightbulb()
+- How many hairstylists does it take to change a lightbulb?
+- 6197, because of millipede memories.
+>>> nonsequitur.violas()
+What is the difference between violas and pencil holders?
+Violas cause honestly.
+>>> nonsequitur.violas()
+What is the difference between violas and CDs?
+Violas unite unexpectedly.
+>>> nonsequitur.violas()
+What is the difference between violas and bells?
+Violas cheer immediately.
+>>> nonsequitur.cows()
+Nicaragua: you have two cows, the first one is dude, the second one is floccinaucinihilipilification.
+>>> nonsequitur.cows()
+France: you have two cows, the first one is expat, the second one is caulking.
+>>> nonsequitur.cows()
+Bulgaria: you have two cows, the first one is egg, the second one is dingleberry.
+>>> nonsequitur.america_russia()
+In America, you consist caulking. In Russia, you prick dingleberry.
+>>> nonsequitur.america_russia()
+In America, you drain visualization. In Russia, you worry macrosmatic.
+>>> nonsequitur.america_russia()
+In America, you nail calisthenics. In Russia, you itch pronounciation.
+>>> nonsequitur.bar()
+A gaming investigator walks into a bar and orders a american-style india black ale. When the bartender gets his drink, he asks, "Bartender, how much do I owe you?" The bartender replies "Just a hair iron and some Zymaxid".
+>>> nonsequitur.bar()
+A school bus driver walks into a bar and orders a american-style dark lager. When the bartender gets his drink, she asks, "Bartender, how much do I owe you?" The bartender replies "Just a sump pump and some Gynazole".
+>>> nonsequitur.bar()
+A groundskeeping worker walks into a bar and orders a belgian-style dark strong ale. When the bartender gets his drink, she asks, "Bartender, how much do I owe you?" The bartender replies "Just a vacuum cleaner and some Aceon".
+>>> nonsequitur.chiken()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: 'module' object has no attribute 'chiken'
+>>> nonsequitur.chicken()
+Why did the chicken cross the road? Because he named to grommets the serendipity.
+>>>
