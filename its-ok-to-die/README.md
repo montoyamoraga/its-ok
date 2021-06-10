@@ -57,9 +57,16 @@ The code for both versions can be found on this repository.
 
 ![its-ok-to-die-v0-back](https://github.com/montoyamoraga/its-ok-to-die/raw/master/documentation/its-ok-to-die-v0-back.jpg "back")
 
+![its-ok-to-die-v0-front](https://github.com/montoyamoraga/its-ok-to-die/raw/master/documentation/its-ok-to-die-v0-front.jpg "front")
+
+![its-ok-to-die-v0-side](https://github.com/montoyamoraga/its-ok-to-die/raw/master/documentation/its-ok-to-die-v0-side.jpg "side")
+
+![its-ok-to-die-v0-back](https://github.com/montoyamoraga/its-ok-to-die/raw/master/documentation/its-ok-to-die-v0-back.jpg "back")
+
 ### 2018 - v1
 
-[Click for accessing web version](http://montoyamoraga.io/its-ok-to-die/web/)
+[Click for accessing web version](https://github.montoyamoraga.io/its-ok/its-ok-to-die/web/)
+[Click for accessing web version](./web/)
 
 # References
 
