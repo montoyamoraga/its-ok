@@ -10,7 +10,7 @@ its-ok is [aarón montoya-moraga](http://montoyamoraga.io/)'s master thesis proj
 
 ## art pieces
 
-* its-ok-to-die
+* [its-ok-to-die](./its-ok-to-die/)
 * its-ok-to-differ
 * its-ok-to-dream
 * its-ok-to-laugh
