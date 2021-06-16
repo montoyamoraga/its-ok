@@ -59,8 +59,7 @@ The code for both versions can be found on this repository.
 
 ### 2018 - v1
 
-[Click for accessing web version](https://github.montoyamoraga.io/its-ok/its-ok-to-die/web/)
-[Click for accessing web version](./web/)
+Web version: [https://github.montoyamoraga.io/its-ok/its-ok-to-die/web/](https://github.montoyamoraga.io/its-ok/its-ok-to-die/web/)
 
 # References
 
